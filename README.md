@@ -8,16 +8,18 @@ Want to see ProdigyNightclub stats ? [here](https://bstats.org/plugin/bukkit/Pro
 
 # Navigation
 
-  * [Home](https://github.com/corentingosselin/ProdigyNightclubWiki/wiki)
+   * [Home](https://github.com/corentingosselin/ProdigyNightclubWiki/wiki)
   * [Create your first nightclub](https://github.com/corentingosselin/ProdigyNightclubWiki/wiki/Create-your-first-nightclub)
   * [Projector](https://github.com/corentingosselin/ProdigyNightclubWiki/wiki/Projectors)
     * [Configuration](https://github.com/corentingosselin/ProdigyNightclubWiki/wiki/Projector-Configuration)
     * [Groups](https://github.com/corentingosselin/ProdigyNightclubWiki/wiki/Groups)
     * [Rotations](https://github.com/corentingosselin/ProdigyNightclubWiki/wiki/Rotations)
+  * [Staff](https://github.com/corentingosselin/ProdigyNightclubWiki/wiki/Staff)
+    * [Barman](https://github.com/corentingosselin/ProdigyNightclubWiki/wiki/Barman)
   * [Record rotation](https://github.com/corentingosselin/ProdigyNightclubWiki/wiki/Record-rotation)
   * [Scenarios](https://github.com/corentingosselin/ProdigyNightclubWiki/wiki/Scenarios)
   * [Event](https://github.com/corentingosselin/ProdigyNightclubWiki/wiki/Event)
-    * [Ticket](https://github.com/corentingosselin/ProdigyNightclubWiki/wiki/Ticket)
+     * [Ticket](https://github.com/corentingosselin/ProdigyNightclubWiki/wiki/Ticket)
   * [Useful commands](https://github.com/corentingosselin/ProdigyNightclubWiki/wiki/Useful-Commands)
   * [Permissions](https://github.com/corentingosselin/ProdigyNightclubWiki/wiki/Permissions)
   * [Language](https://github.com/corentingosselin/ProdigyNightclubWiki/wiki/Language)
